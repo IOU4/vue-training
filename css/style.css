@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 20;
+  padding: 0;
+}
+label,button{
+  display: block;
+}
+button{
+  margin-top: 20px;
+}
+
+[v-cloak]{
+  display: none;
+}
